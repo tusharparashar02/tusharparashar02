@@ -1,24 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=200&section=header&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20building%20cloud%20and%20AI%20applications&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
-
-
 </div>
-
----
-
-### 👨‍💻 About Me
-
-```ts
-const tushar = {
-  role        : "Software Engineer @ Capgemini",
-  stack       : [".NET", "JavaScript", "Reactjs", "Azure", "SQL Server"],
-  interests    : ["Cloud Architecture", "Agentic AI & LLM-powered enterprise Applications"],
-  location    : "India 🇮🇳",
-};
-```
-
----
 
 ### 🛠️ Tech Stack
 
@@ -96,8 +78,6 @@ const tushar = {
         <br/><sub>AI-900 · Sep 2025</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
       <a href="https://cloud.google.com/learn/certification/cloud-engineer" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="90" alt="GCP ACE"/>
@@ -112,8 +92,6 @@ const tushar = {
         <br/><sub>Google Cloud · Feb 2026</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
       <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90" alt="AWS Developer"/>
