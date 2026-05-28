@@ -51,42 +51,42 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/" target="_blank">
+      <a href="[https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/](https://learn.microsoft.com/api/credentials/share/en-us/TusharParashar-0403/55763653AEC57205?sharingId=3B07BB21AFF37E4F)" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="90" alt="AZ-400"/>
         <br/><sub><b>DevOps Engineer Expert</b></sub>
         <br/><sub>AZ-400 · Jan 2026</sub>
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">
+      <a href="[https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/](https://learn.microsoft.com/api/credentials/share/en-us/TusharParashar-0403/545C648716DE43E7?sharingId=3B07BB21AFF37E4F)" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" alt="AZ-204"/>
         <br/><sub><b>Azure Developer Associate</b></sub>
         <br/><sub>AZ-204 · Dec 2025</sub>
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">
+      <a href="[https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/](https://learn.microsoft.com/api/credentials/share/en-us/TusharParashar-0403/70C40441F830FA6E?sharingId=3B07BB21AFF37E4F)" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" alt="AZ-900"/>
         <br/><sub><b>Azure Fundamentals</b></sub>
         <br/><sub>AZ-900 · Nov 2025</sub>
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" target="_blank">
+      <a href="["https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/](https://learn.microsoft.com/api/credentials/share/en-us/TusharParashar-0403/692D516F83EC80CB?sharingId=3B07BB21AFF37E4F)" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="90" alt="AI-900"/>
         <br/><sub><b>Azure AI Fundamentals</b></sub>
         <br/><sub>AI-900 · Sep 2025</sub>
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://cloud.google.com/learn/certification/cloud-engineer" target="_blank">
+      <a href="https://www.credly.com/badges/65a229d4-4d85-4a34-9dcb-13e1b4bf8915/linked_in_profile" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="90" alt="GCP ACE"/>
         <br/><sub><b>Associate Cloud Engineer</b></sub>
         <br/><sub>Google Cloud · Mar 2026</sub>
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://cloud.google.com/learn/certification" target="_blank">
+      <a href="https://www.credly.com/badges/52afbd30-017e-4050-b512-18759169072b/linked_in_profile" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="90" alt="GenAI Leader"/>
         <br/><sub><b>Generative AI Leader</b></sub>
         <br/><sub>Google Cloud · Feb 2026</sub>
