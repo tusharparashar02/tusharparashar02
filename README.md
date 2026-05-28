@@ -6,13 +6,6 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tusharparashar02&label=Profile%20Views&color=2f81f7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tusharparashar02?label=Followers&style=flat&color=2f81f7" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI-2f81f7?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/Certifications-7%C3%97%20Cloud-orange?style=flat" alt="certs" />
-</p>
-
 </div>
 
 ---
