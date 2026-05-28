@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer;Enterprise+AI+%26+GenAI+Developer;7%C3%97+Cloud+Certified" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=200&section=header&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20GenAI%20Builder%20%7C%207%C3%97%20Cloud%20Certified&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer+%40+Capgemini;Enterprise+AI+%26+GenAI+Developer;RAG+·+Agentic+AI+·+LLM+Integration;7%C3%97+Cloud+Certified+%E2%80%94+Azure+%7C+AWS+%7C+GCP" alt="Typing SVG" />
 
 <br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tusharparashar02&label=Profile%20Views&color=2f81f7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tusharparashar02?label=Followers&style=flat&color=2f81f7" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI-2f81f7?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/Certifications-7%C3%97%20Cloud-orange?style=flat" alt="certs" />
 </p>
 
 </div>
@@ -80,14 +84,14 @@ const tushar = {
   <tr>
     <td align="center" width="150">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="90" alt="AZ-400"/>
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="90" alt="AZ-400"/>
         <br/><sub><b>DevOps Engineer Expert</b></sub>
         <br/><sub>AZ-400 · Jan 2026</sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/83e1a1ce-c460-4e68-9c80-ee20e3803d8d/image.png" width="90" alt="AZ-204"/>
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" alt="AZ-204"/>
         <br/><sub><b>Azure Developer Associate</b></sub>
         <br/><sub>AZ-204 · Dec 2025</sub>
       </a>
@@ -122,7 +126,7 @@ const tushar = {
     </td>
     <td align="center" width="150">
       <a href="https://cloud.google.com/learn/certification" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/b8a2b93a-3b27-4b25-baf9-bc5b8c3efd43/image.png" width="90" alt="GenAI Leader"/>
+        <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="90" alt="GenAI Leader"/>
         <br/><sub><b>Generative AI Leader</b></sub>
         <br/><sub>Google Cloud · Feb 2026</sub>
       </a>
