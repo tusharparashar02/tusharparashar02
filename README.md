@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=200&section=header&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20GenAI%20Builder%20%7C%207%C3%97%20Cloud%20Certified&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer+%40+Capgemini;Enterprise+AI+%26+GenAI+Developer;RAG+·+Agentic+AI+·+LLM+Integration;7%C3%97+Cloud+Certified+%E2%80%94+Azure+%7C+AWS+%7C+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer;Enterprise+AI+%26+GenAI+Developer;7%C3%97+Cloud+Certified" alt="Typing SVG" />
 
 <br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tusharparashar02&label=Profile%20Views&color=2f81f7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tusharparashar02?label=Followers&style=flat&color=2f81f7" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI-2f81f7?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/Certifications-7%C3%97%20Cloud-orange?style=flat" alt="certs" />
 </p>
 
 </div>
@@ -19,74 +15,16 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=58A6FF&width=600&lines=Software+Engineer+%40+Capgemini;Building+Enterprise+AI+%26+.NET+Full-Stack+Systems;RAG+Pipelines+·+Agentic+AI+·+LLM+Integration;7%C3%97+Cloud+Certified+%E2%80%94+Azure+%7C+AWS+%7C+GCP" alt="about typing" />
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
 ```ts
-/**
- * Tushar Parashar
- * Software Engineer · GenAI Builder · Cloud Architect
- */
-
-const tushar: Developer = {
+const tushar = {
   role        : "Software Engineer @ Capgemini",
-  education   : "B.Tech CSE, GLA University '25",
-
-  expertise   : {
-    fullStack : ["ASP.NET Core", "React.js", "REST APIs"],
-    ai        : ["RAG", "Agentic AI", "LangChain", "LLMs"],
-    cloud     : ["Azure", "GCP", "AWS"],
-    devOps    : ["Azure DevOps", "CI/CD", "Microservices"],
-  },
-
-  currentlyBuilding : "LLM-powered enterprise AI tools",
-  certifications    : 7,   // and counting 🚀
-  location          : "India 🇮🇳",
-
-  askMeAbout  : [
-    "C# & .NET ecosystem",
-    "GenAI integration",
-    "Cloud architecture",
-    "React frontends",
-  ],
+  education   : "B.Tech CSE — GLA University (2025)",
+  focus       : [".NET Full-Stack", "Enterprise AI", "GenAI Applications"],
+  building    : "RAG pipelines, Agentic AI & LLM-powered enterprise tools",
+  certified   : "7× Cloud — Azure · AWS · GCP",
+  location    : "India 🇮🇳",
 };
 ```
-
-</td>
-<td valign="top" width="45%">
-
-<br/>
-
-**Who am I?**
-- 🏢 Software Engineer at **Capgemini**, building enterprise-grade AI & full-stack solutions
-- 🤖 Deeply passionate about **Generative AI** — RAG pipelines, Agentic workflows & LLM integration
-- ☁️ **7× Cloud Certified** across Azure, AWS & GCP
-- 🎓 B.Tech CSE graduate, **GLA University (2025)**
-- 🔭 Currently exploring **LangGraph**, **Google ADK** & **Agentic AI** patterns
-- 💡 I believe great software is **readable, reliable & AI-ready**
-- 📍 Based in **India** — working globally
-
-<br/>
-
-**When I'm not coding...**
-
-```text
-Reading tech blogs   ████████░░░  70%
-Learning new certs   ███████░░░░  60%
-Building side projs  █████░░░░░░  45%
-Breaking prod        █░░░░░░░░░░  (rarely 😅)
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%" />
 
 ---
 
