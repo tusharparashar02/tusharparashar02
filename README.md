@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=200&section=header&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20GenAI%20Builder%20%7C%207%C3%97%20Cloud%20Certified&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=200&section=header&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20building%20cloud%20and%20AI%20applications&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer+%40+Capgemini;Enterprise+AI+%26+GenAI+Developer;RAG+·+Agentic+AI+·+LLM+Integration;7%C3%97+Cloud+Certified+%E2%80%94+Azure+%7C+AWS+%7C+GCP" alt="Typing SVG" />
-
-<br/>
 
 </div>
 
@@ -15,10 +12,8 @@
 ```ts
 const tushar = {
   role        : "Software Engineer @ Capgemini",
-  education   : "B.Tech CSE — GLA University (2025)",
-  focus       : [".NET Full-Stack", "Enterprise AI", "GenAI Applications"],
-  building    : "RAG pipelines, Agentic AI & LLM-powered enterprise tools",
-  certified   : "7× Cloud — Azure · AWS · GCP",
+  stack       : [".NET", "JavaScript", "Reactjs", "Azure", "SQL Server"],
+  interests    : ["Cloud Architecture", "Agentic AI & LLM-powered enterprise Applications"],
   location    : "India 🇮🇳",
 };
 ```
@@ -71,8 +66,6 @@ const tushar = {
 
 ### 📜 Certifications
 
-**Microsoft Azure**
-
 <table>
   <tr>
     <td align="center" width="150">
@@ -104,11 +97,6 @@ const tushar = {
       </a>
     </td>
   </tr>
-</table>
-
-**Google Cloud**
-
-<table>
   <tr>
     <td align="center" width="150">
       <a href="https://cloud.google.com/learn/certification/cloud-engineer" target="_blank">
@@ -125,11 +113,6 @@ const tushar = {
       </a>
     </td>
   </tr>
-</table>
-
-**Amazon Web Services**
-
-<table>
   <tr>
     <td align="center" width="150">
       <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">
