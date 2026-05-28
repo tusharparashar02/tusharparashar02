@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer;Enterprise+AI+%26+GenAI+Developer;7%C3%97+Cloud+Certified" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=200&section=header&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20GenAI%20Builder%20%7C%207%C3%97%20Cloud%20Certified&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Tushar+Parashar+%F0%9F%91%8B;.NET+Full-Stack+Engineer+%40+Capgemini;Enterprise+AI+%26+GenAI+Developer;RAG+·+Agentic+AI+·+LLM+Integration;7%C3%97+Cloud+Certified+%E2%80%94+Azure+%7C+AWS+%7C+GCP" alt="Typing SVG" />
 
 <br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tusharparashar02&label=Profile%20Views&color=2f81f7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tusharparashar02?label=Followers&style=flat&color=2f81f7" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI-2f81f7?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/Certifications-7%C3%97%20Cloud-orange?style=flat" alt="certs" />
 </p>
 
 </div>
@@ -15,16 +19,74 @@
 
 ### 👨‍💻 About Me
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=58A6FF&width=600&lines=Software+Engineer+%40+Capgemini;Building+Enterprise+AI+%26+.NET+Full-Stack+Systems;RAG+Pipelines+·+Agentic+AI+·+LLM+Integration;7%C3%97+Cloud+Certified+%E2%80%94+Azure+%7C+AWS+%7C+GCP" alt="about typing" />
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```ts
-const tushar = {
+/**
+ * Tushar Parashar
+ * Software Engineer · GenAI Builder · Cloud Architect
+ */
+
+const tushar: Developer = {
   role        : "Software Engineer @ Capgemini",
-  education   : "B.Tech CSE — GLA University (2025)",
-  focus       : [".NET Full-Stack", "Enterprise AI", "GenAI Applications"],
-  building    : "RAG pipelines, Agentic AI & LLM-powered enterprise tools",
-  certified   : "7× Cloud — Azure · AWS · GCP",
-  location    : "India 🇮🇳",
+  education   : "B.Tech CSE, GLA University '25",
+
+  expertise   : {
+    fullStack : ["ASP.NET Core", "React.js", "REST APIs"],
+    ai        : ["RAG", "Agentic AI", "LangChain", "LLMs"],
+    cloud     : ["Azure", "GCP", "AWS"],
+    devOps    : ["Azure DevOps", "CI/CD", "Microservices"],
+  },
+
+  currentlyBuilding : "LLM-powered enterprise AI tools",
+  certifications    : 7,   // and counting 🚀
+  location          : "India 🇮🇳",
+
+  askMeAbout  : [
+    "C# & .NET ecosystem",
+    "GenAI integration",
+    "Cloud architecture",
+    "React frontends",
+  ],
 };
 ```
+
+</td>
+<td valign="top" width="45%">
+
+<br/>
+
+**Who am I?**
+- 🏢 Software Engineer at **Capgemini**, building enterprise-grade AI & full-stack solutions
+- 🤖 Deeply passionate about **Generative AI** — RAG pipelines, Agentic workflows & LLM integration
+- ☁️ **7× Cloud Certified** across Azure, AWS & GCP
+- 🎓 B.Tech CSE graduate, **GLA University (2025)**
+- 🔭 Currently exploring **LangGraph**, **Google ADK** & **Agentic AI** patterns
+- 💡 I believe great software is **readable, reliable & AI-ready**
+- 📍 Based in **India** — working globally
+
+<br/>
+
+**When I'm not coding...**
+
+```text
+Reading tech blogs   ████████░░░  70%
+Learning new certs   ███████░░░░  60%
+Building side projs  █████░░░░░░  45%
+Breaking prod        █░░░░░░░░░░  (rarely 😅)
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%" />
 
 ---
 
@@ -74,46 +136,75 @@ const tushar = {
 
 ### 📜 Certifications
 
-| Badge | Certification | Issuer | Date |
-|-------|--------------|--------|------|
-| ☁️ | Associate Cloud Engineer | Google Cloud | Mar 2026 |
-| 🤖 | Generative AI Leader | Google Cloud | Feb 2026 |
-| 🛠️ | AWS Certified Developer – Associate | Amazon Web Services | Feb 2026 |
-| ⚙️ | Azure DevOps Engineer Expert (AZ-400) | Microsoft | Jan 2026 |
-| 💻 | Azure Developer Associate (AZ-204) | Microsoft | Dec 2025 |
-| 🌐 | Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 |
-| 🧠 | Azure AI Fundamentals (AI-900) | Microsoft | Sep 2025 |
+**Microsoft Azure**
 
----
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="90" alt="AZ-400"/>
+        <br/><sub><b>DevOps Engineer Expert</b></sub>
+        <br/><sub>AZ-400 · Jan 2026</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/83e1a1ce-c460-4e68-9c80-ee20e3803d8d/image.png" width="90" alt="AZ-204"/>
+        <br/><sub><b>Azure Developer Associate</b></sub>
+        <br/><sub>AZ-204 · Dec 2025</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" alt="AZ-900"/>
+        <br/><sub><b>Azure Fundamentals</b></sub>
+        <br/><sub>AZ-900 · Nov 2025</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="90" alt="AI-900"/>
+        <br/><sub><b>Azure AI Fundamentals</b></sub>
+        <br/><sub>AI-900 · Sep 2025</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
+**Google Cloud**
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://cloud.google.com/learn/certification/cloud-engineer" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="90" alt="GCP ACE"/>
+        <br/><sub><b>Associate Cloud Engineer</b></sub>
+        <br/><sub>Google Cloud · Mar 2026</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://cloud.google.com/learn/certification" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/b8a2b93a-3b27-4b25-baf9-bc5b8c3efd43/image.png" width="90" alt="GenAI Leader"/>
+        <br/><sub><b>Generative AI Leader</b></sub>
+        <br/><sub>Google Cloud · Feb 2026</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharparashar02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharparashar02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+**Amazon Web Services**
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharparashar02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharparashar02&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharparashar02&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90" alt="AWS Developer"/>
+        <br/><sub><b>AWS Certified Developer – Associate</b></sub>
+        <br/><sub>Amazon Web Services · Feb 2026</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
