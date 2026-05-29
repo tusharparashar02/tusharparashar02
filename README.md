@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1f35,100:2F81F7&height=180&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1e3a5f,50:2F81F7,100:a960ee&height=180&text=Tushar%20Parashar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
 </div>
 
 ### Tech Stack
